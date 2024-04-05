@@ -8,7 +8,7 @@
 
 H3ll0 W0r1d!
 
-My name is Aleksa Zatezalo. I am a cyber security reasercher, software developer and infrastructure security consultant. This github profile contains a list of personal projects and cyber security reaserch projects I have created. Aside from my passion for mobile development, website development (& sometimes AI) I enjoy contributing to open source security projects such as Metasploit. Hopefully you find some cool security tools exploring this profile. Feel free to reach out or browse any other cyber security content I have released on social media below:
+My name is Aleksa Zatezalo. I am a cyber security reasercher, software developer and penetration tester. This github profile contains a list of proffesional projects I have created. You can find more examples of my work on the social media sites below:
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/aleksa-zatezalo-39a891150/" target="_blank">
@@ -36,24 +36,6 @@ My name is Aleksa Zatezalo. I am a cyber security reasercher, software developer
 <br></br>
 <br></br>
 
-#
-
-
-<h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/>
-
-
-<h2>⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aleksazatezalo&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=aleksazatezalo&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aleksazatezalo&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
-<br/><br/>
 
 <!---
 AleksaZatezalo/AleksaZatezalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
